@@ -1,9 +1,4 @@
 """
-╔══════════════════════════════════════════════════════════════════════════════╗
-║      AI EXAM PROCTORING SYSTEM  —  ELITE EDITION  🚀  [+ DEVICE DETECT]   ║
-║  MediaPipe 0.10+ Tasks API · 478 Landmarks · 3D Pose · Iris Tracking       ║
-║  Electronic Device Detection: Phone · Laptop · Tablet · Earphones          ║
-╚══════════════════════════════════════════════════════════════════════════════╝
 
   Author  : Yasir Shaikh
   GitHub  : https://github.com/YasirShaikh03
