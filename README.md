@@ -1,3 +1,5 @@
+[Yasir Shaikh](https://github.com/YasirShaikh03)
+
 <h1 align="center">🎓 AI Exam Proctoring System — Elite Edition</h1>
 
 <p align="center">
